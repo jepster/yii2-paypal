@@ -11,4 +11,4 @@ Entire Yii2 setup with working Paypal integration. No needs for implementing spe
 
 There's also a SQL-file for the Yii2 database config (paypal functionality isn't needing the database) in the paypal.sql file in the root folder of this repository.
 
-If you have any question please do not hesitate to put an issue.
+If you have any questions please do not hesitate to put an issue.
